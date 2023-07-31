@@ -1,0 +1,10 @@
+.bg-image {
+    background-image: url("../img/home-bg-slideshow1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+  }
+  .f1{
+    margin-top: 150px;
+  }
